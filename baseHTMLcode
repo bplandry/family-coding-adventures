@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>
+            Welcome to my webpage
+        </h1>
+    </head>
+    <body>
+        <p>
+            My name is Brandon. These are my favorite things.
+        </p>
+        <ul>
+            <li>Flying</li>
+            <li>Travel</li>
+            <li>Languages</li>
+        </ul>
+        <p>These are my siblings, ordered by oldest to youngest</p>
+        <ol>
+            <li>Beckett</li>
+            <li>Haylee</li>
+            <li>Noah</li>
+            <li>Abby</li>
+        </ol>
+<!--Abby, add a line of code here for practice. Make sure you put a new paragraph in.-->
+    </body>
+</html>
