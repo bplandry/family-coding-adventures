@@ -24,3 +24,26 @@
 <!--Abby, add a line of code here for practice. Make sure you put a new paragraph in.-->
     </body>
 </html>
+   <!DOCTYPE html>
+   <html>
+       <head> 
+          <h1>
+           Things I like to bake
+          <h1> 
+          </head>
+      <body>
+        <p>
+        <ul>
+            <li>Chocolate cake</li>
+            <li>Chocolate chip cookies</li>
+            <li>Browinies</li>
+         </ul>
+         </p>
+         <head>
+             <h1>  
+                 My favorite book and author
+             </h1>
+          </head>
+         <p> 
+         My favorite book is <em>Clear and Present Danger</em> by Tom Clancy who is my favorite author.
+         </p>
