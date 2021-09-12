@@ -26,7 +26,7 @@
           <h1>
            Things I like to bake
           <h1> 
-          </head>
+       </head>
       <body>
         <p>
         <ul>
@@ -40,7 +40,7 @@
                  My favorite book and author
              </h1>
           </head>
-         <p> 
+         <p>
          My favorite book is <em>Clear and Present Danger</em> by Tom Clancy who is my favorite author.
          </p>
          </html>
